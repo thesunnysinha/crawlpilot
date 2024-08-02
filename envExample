@@ -1,0 +1,4 @@
+SECRET_KEY=django-insecure-h7&@olvyhv)i%=zfy06cju=6e*270(760r^e053!me0axo88^i
+DEBUG=True
+ALLOWED_HOSTS=localhost,127.0.0.1
+CELERY_BROKER_URL=redis://localhost:6379/1
